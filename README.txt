@@ -1,1 +1,3 @@
-To use, copy .vimrc to $HOME.
+To use, copy .nanorc and .vimrc to $HOME:
+
+    cp -v .*rc ~
