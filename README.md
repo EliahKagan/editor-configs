@@ -1,4 +1,4 @@
-# editor-configs - *My text editor configuration files.*
+# editor-configs - *my text editor configuration files*
 
 *Written by Eliah Kagan \<degeneracypressure@gmail.com\>. First published in
 2019.*
